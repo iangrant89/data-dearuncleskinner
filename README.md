@@ -51,9 +51,7 @@ The labels used in the initial MSc dataset are:
 - Mentalism: *An explanation for the behaviour within the text which refers to something within the individual, often outside of their control, a state of being rather than a measurable behaviour explicitly carried out by the individual.*
 
 ## Descriptive Statics of MSc. Dataset
-**Last updated**: 25th April 2022
-
-// TODO: Finish section.
+**Last updated**: 1st May 2022
 
 <table>
   <thead>
